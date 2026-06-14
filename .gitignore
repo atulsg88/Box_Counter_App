@@ -1,0 +1,8 @@
+build/
+.dart_tool/
+.packages
+
+# Ignore Python and YOLO files
+__pycache__/
+*.pt
+serviceAccountKey.json

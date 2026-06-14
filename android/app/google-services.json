@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316007235728",
+    "project_id": "box-detection-75f81",
+    "storage_bucket": "box-detection-75f81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316007235728:android:a20b1081aff646977a9815",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42eMqL3O7IFLZWydBmX-RA78o0y3IBpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
